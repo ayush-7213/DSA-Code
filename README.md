@@ -23,4 +23,12 @@ Here, I'm daily minimum one DSA question solved.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/0054-spiral-matrix) |
+## Tree
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/ayush-7213/DSA-Code/tree/master/2872-maximum-number-of-k-divisible-components) |
+## Depth-First Search
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/ayush-7213/DSA-Code/tree/master/2872-maximum-number-of-k-divisible-components) |
 <!---LeetCode Topics End-->
