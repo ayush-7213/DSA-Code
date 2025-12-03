@@ -26,9 +26,19 @@ Here, I'm daily minimum one DSA question solved.
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ayush-7213/DSA-Code/tree/master/0101-symmetric-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ayush-7213/DSA-Code/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ayush-7213/DSA-Code/tree/master/0101-symmetric-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ayush-7213/DSA-Code/tree/master/2872-maximum-number-of-k-divisible-components) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/ayush-7213/DSA-Code/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/ayush-7213/DSA-Code/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
