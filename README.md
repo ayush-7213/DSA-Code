@@ -15,6 +15,7 @@ Here, I'm daily minimum one DSA question solved.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/0054-spiral-matrix) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ayush-7213/DSA-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Matrix
 |  |
 | ------- |
@@ -41,4 +42,12 @@ Here, I'm daily minimum one DSA question solved.
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/ayush-7213/DSA-Code/tree/master/0101-symmetric-tree) |
+## Math
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ayush-7213/DSA-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Prefix Sum
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ayush-7213/DSA-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
