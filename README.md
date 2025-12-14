@@ -45,9 +45,18 @@ Here, I'm daily minimum one DSA question solved.
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/ayush-7213/DSA-Code/tree/master/0202-happy-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ayush-7213/DSA-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ayush-7213/DSA-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ayush-7213/DSA-Code/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ayush-7213/DSA-Code/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
