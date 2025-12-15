@@ -16,6 +16,7 @@ Here, I'm daily minimum one DSA question solved.
 | ------- |
 | [0054-spiral-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/ayush-7213/DSA-Code/tree/master/0498-diagonal-traverse) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ayush-7213/DSA-Code/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ayush-7213/DSA-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Matrix
 |  |
@@ -49,6 +50,7 @@ Here, I'm daily minimum one DSA question solved.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ayush-7213/DSA-Code/tree/master/0202-happy-number) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ayush-7213/DSA-Code/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ayush-7213/DSA-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Prefix Sum
 |  |
@@ -62,4 +64,8 @@ Here, I'm daily minimum one DSA question solved.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ayush-7213/DSA-Code/tree/master/0202-happy-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ayush-7213/DSA-Code/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 <!---LeetCode Topics End-->
