@@ -19,6 +19,7 @@ Here, I'm daily minimum one DSA question solved.
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ayush-7213/DSA-Code/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ayush-7213/DSA-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ayush-7213/DSA-Code/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ayush-7213/DSA-Code/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Matrix
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Here, I'm daily minimum one DSA question solved.
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ayush-7213/DSA-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ayush-7213/DSA-Code/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,4 +74,8 @@ Here, I'm daily minimum one DSA question solved.
 | ------- |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ayush-7213/DSA-Code/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ayush-7213/DSA-Code/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+## Sliding Window
+|  |
+| ------- |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ayush-7213/DSA-Code/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 <!---LeetCode Topics End-->
