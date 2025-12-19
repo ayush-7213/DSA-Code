@@ -40,12 +40,14 @@ Here, I'm daily minimum one DSA question solved.
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/ayush-7213/DSA-Code/tree/master/0101-symmetric-tree) |
+| [2092-find-all-people-with-secret](https://github.com/ayush-7213/DSA-Code/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ayush-7213/DSA-Code/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ayush-7213/DSA-Code/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/ayush-7213/DSA-Code/tree/master/0101-symmetric-tree) |
+| [2092-find-all-people-with-secret](https://github.com/ayush-7213/DSA-Code/tree/master/2092-find-all-people-with-secret) |
 ## Binary Tree
 |  |
 | ------- |
@@ -78,4 +80,16 @@ Here, I'm daily minimum one DSA question solved.
 |  |
 | ------- |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ayush-7213/DSA-Code/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+## Union Find
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/ayush-7213/DSA-Code/tree/master/2092-find-all-people-with-secret) |
+## Graph
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/ayush-7213/DSA-Code/tree/master/2092-find-all-people-with-secret) |
+## Sorting
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/ayush-7213/DSA-Code/tree/master/2092-find-all-people-with-secret) |
 <!---LeetCode Topics End-->
