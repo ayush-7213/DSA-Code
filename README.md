@@ -21,6 +21,7 @@ Here, I'm daily minimum one DSA question solved.
 | [0746-min-cost-climbing-stairs](https://github.com/ayush-7213/DSA-Code/tree/master/0746-min-cost-climbing-stairs) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ayush-7213/DSA-Code/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ayush-7213/DSA-Code/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [2054-two-best-non-overlapping-events](https://github.com/ayush-7213/DSA-Code/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ayush-7213/DSA-Code/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ayush-7213/DSA-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ayush-7213/DSA-Code/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -82,6 +83,7 @@ Here, I'm daily minimum one DSA question solved.
 | ------- |
 | [0198-house-robber](https://github.com/ayush-7213/DSA-Code/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/ayush-7213/DSA-Code/tree/master/0746-min-cost-climbing-stairs) |
+| [2054-two-best-non-overlapping-events](https://github.com/ayush-7213/DSA-Code/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ayush-7213/DSA-Code/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ayush-7213/DSA-Code/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Sliding Window
@@ -99,6 +101,7 @@ Here, I'm daily minimum one DSA question solved.
 ## Sorting
 |  |
 | ------- |
+| [2054-two-best-non-overlapping-events](https://github.com/ayush-7213/DSA-Code/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/ayush-7213/DSA-Code/tree/master/2092-find-all-people-with-secret) |
 ## String
 |  |
@@ -109,4 +112,12 @@ Here, I'm daily minimum one DSA question solved.
 |  |
 | ------- |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ayush-7213/DSA-Code/tree/master/0955-delete-columns-to-make-sorted-ii) |
+## Binary Search
+|  |
+| ------- |
+| [2054-two-best-non-overlapping-events](https://github.com/ayush-7213/DSA-Code/tree/master/2054-two-best-non-overlapping-events) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2054-two-best-non-overlapping-events](https://github.com/ayush-7213/DSA-Code/tree/master/2054-two-best-non-overlapping-events) |
 <!---LeetCode Topics End-->
