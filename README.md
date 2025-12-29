@@ -80,6 +80,7 @@ Here, I'm daily minimum one DSA question solved.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ayush-7213/DSA-Code/tree/master/0202-happy-number) |
+| [0756-pyramid-transition-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/0756-pyramid-transition-matrix) |
 | [2402-meeting-rooms-iii](https://github.com/ayush-7213/DSA-Code/tree/master/2402-meeting-rooms-iii) |
 ## Two Pointers
 |  |
@@ -115,6 +116,7 @@ Here, I'm daily minimum one DSA question solved.
 ## String
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ayush-7213/DSA-Code/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ayush-7213/DSA-Code/tree/master/0955-delete-columns-to-make-sorted-ii) |
 ## Greedy
@@ -136,8 +138,10 @@ Here, I'm daily minimum one DSA question solved.
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/ayush-7213/DSA-Code/tree/master/0089-gray-code) |
+| [0756-pyramid-transition-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/0756-pyramid-transition-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/ayush-7213/DSA-Code/tree/master/0089-gray-code) |
+| [0756-pyramid-transition-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/0756-pyramid-transition-matrix) |
 <!---LeetCode Topics End-->
