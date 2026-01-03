@@ -99,6 +99,7 @@ Here, I'm daily minimum one DSA question solved.
 | ------- |
 | [0198-house-robber](https://github.com/ayush-7213/DSA-Code/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/ayush-7213/DSA-Code/tree/master/0746-min-cost-climbing-stairs) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ayush-7213/DSA-Code/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/ayush-7213/DSA-Code/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ayush-7213/DSA-Code/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ayush-7213/DSA-Code/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
