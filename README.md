@@ -15,6 +15,7 @@ Here, I'm daily minimum one DSA question solved.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/0054-spiral-matrix) |
+| [0085-maximal-rectangle](https://github.com/ayush-7213/DSA-Code/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/ayush-7213/DSA-Code/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/ayush-7213/DSA-Code/tree/master/0238-product-of-array-except-self) |
 | [0498-diagonal-traverse](https://github.com/ayush-7213/DSA-Code/tree/master/0498-diagonal-traverse) |
@@ -37,6 +38,7 @@ Here, I'm daily minimum one DSA question solved.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/0054-spiral-matrix) |
+| [0085-maximal-rectangle](https://github.com/ayush-7213/DSA-Code/tree/master/0085-maximal-rectangle) |
 | [0498-diagonal-traverse](https://github.com/ayush-7213/DSA-Code/tree/master/0498-diagonal-traverse) |
 | [0840-magic-squares-in-grid](https://github.com/ayush-7213/DSA-Code/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -109,6 +111,7 @@ Here, I'm daily minimum one DSA question solved.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/ayush-7213/DSA-Code/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/ayush-7213/DSA-Code/tree/master/0198-house-robber) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ayush-7213/DSA-Code/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/ayush-7213/DSA-Code/tree/master/0746-min-cost-climbing-stairs) |
@@ -170,4 +173,12 @@ Here, I'm daily minimum one DSA question solved.
 | ------- |
 | [0089-gray-code](https://github.com/ayush-7213/DSA-Code/tree/master/0089-gray-code) |
 | [0756-pyramid-transition-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/0756-pyramid-transition-matrix) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/ayush-7213/DSA-Code/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/ayush-7213/DSA-Code/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
