@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/separate-squares-ii">3775. Separate Squares II</a></h2><h3>Hard</h3><hr><p>You are given a 2D integer array <code>squares</code>. Each <code>squares[i] = [x<sub>i</sub>, y<sub>i</sub>, l<sub>i</sub>]</code> represents the coordinates of the bottom-left point and the side length of a square parallel to the x-axis.</p>
+<h2><a href="https://leetcode.com/problems/separate-squares-ii/?envType=daily-question&envId=2026-01-14">3454. Separate Squares II</a></h2><h3>Hard</h3><hr><p>You are given a 2D integer array <code>squares</code>. Each <code>squares[i] = [x<sub>i</sub>, y<sub>i</sub>, l<sub>i</sub>]</code> represents the coordinates of the bottom-left point and the side length of a square parallel to the x-axis.</p>
 
 <p>Find the <strong>minimum</strong> y-coordinate value of a horizontal line such that the total area covered by squares above the line <em>equals</em> the total area covered by squares below the line.</p>
 
