@@ -33,6 +33,7 @@ Here, I'm daily minimum one DSA question solved.
 | [2402-meeting-rooms-iii](https://github.com/ayush-7213/DSA-Code/tree/master/2402-meeting-rooms-iii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ayush-7213/DSA-Code/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ayush-7213/DSA-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3454-separate-squares-ii](https://github.com/ayush-7213/DSA-Code/tree/master/3454-separate-squares-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ayush-7213/DSA-Code/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ayush-7213/DSA-Code/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Matrix
@@ -160,6 +161,7 @@ Here, I'm daily minimum one DSA question solved.
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ayush-7213/DSA-Code/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/ayush-7213/DSA-Code/tree/master/2054-two-best-non-overlapping-events) |
+| [3454-separate-squares-ii](https://github.com/ayush-7213/DSA-Code/tree/master/3454-separate-squares-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -187,4 +189,12 @@ Here, I'm daily minimum one DSA question solved.
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/ayush-7213/DSA-Code/tree/master/1266-minimum-time-visiting-all-points) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/ayush-7213/DSA-Code/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/ayush-7213/DSA-Code/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
