@@ -63,6 +63,7 @@ Here, I'm daily minimum one DSA question solved.
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/ayush-7213/DSA-Code/tree/master/0101-symmetric-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/ayush-7213/DSA-Code/tree/master/0450-delete-node-in-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayush-7213/DSA-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ayush-7213/DSA-Code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ayush-7213/DSA-Code/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -88,6 +89,7 @@ Here, I'm daily minimum one DSA question solved.
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/ayush-7213/DSA-Code/tree/master/0101-symmetric-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/ayush-7213/DSA-Code/tree/master/0450-delete-node-in-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayush-7213/DSA-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ayush-7213/DSA-Code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Math
@@ -218,4 +220,8 @@ Here, I'm daily minimum one DSA question solved.
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ayush-7213/DSA-Code/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/ayush-7213/DSA-Code/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
