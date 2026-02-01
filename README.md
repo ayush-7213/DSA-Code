@@ -35,6 +35,7 @@ Here, I'm daily minimum one DSA question solved.
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ayush-7213/DSA-Code/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2402-meeting-rooms-iii](https://github.com/ayush-7213/DSA-Code/tree/master/2402-meeting-rooms-iii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ayush-7213/DSA-Code/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ayush-7213/DSA-Code/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ayush-7213/DSA-Code/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ayush-7213/DSA-Code/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ayush-7213/DSA-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -157,6 +158,7 @@ Here, I'm daily minimum one DSA question solved.
 | [2092-find-all-people-with-secret](https://github.com/ayush-7213/DSA-Code/tree/master/2092-find-all-people-with-secret) |
 | [2402-meeting-rooms-iii](https://github.com/ayush-7213/DSA-Code/tree/master/2402-meeting-rooms-iii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ayush-7213/DSA-Code/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ayush-7213/DSA-Code/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ayush-7213/DSA-Code/tree/master/3075-maximize-happiness-of-selected-children) |
 ## String
 |  |
@@ -237,4 +239,8 @@ Here, I'm daily minimum one DSA question solved.
 |  |
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ayush-7213/DSA-Code/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ayush-7213/DSA-Code/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
