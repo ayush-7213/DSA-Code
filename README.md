@@ -36,6 +36,7 @@ Here, I'm daily minimum one DSA question solved.
 | [2402-meeting-rooms-iii](https://github.com/ayush-7213/DSA-Code/tree/master/2402-meeting-rooms-iii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ayush-7213/DSA-Code/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ayush-7213/DSA-Code/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ayush-7213/DSA-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ayush-7213/DSA-Code/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ayush-7213/DSA-Code/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ayush-7213/DSA-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -120,6 +121,7 @@ Here, I'm daily minimum one DSA question solved.
 | [0840-magic-squares-in-grid](https://github.com/ayush-7213/DSA-Code/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayush-7213/DSA-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2402-meeting-rooms-iii](https://github.com/ayush-7213/DSA-Code/tree/master/2402-meeting-rooms-iii) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ayush-7213/DSA-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ayush-7213/DSA-Code/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
@@ -140,6 +142,7 @@ Here, I'm daily minimum one DSA question solved.
 ## Sliding Window
 |  |
 | ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ayush-7213/DSA-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ayush-7213/DSA-Code/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Union Find
 |  |
@@ -186,6 +189,7 @@ Here, I'm daily minimum one DSA question solved.
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/ayush-7213/DSA-Code/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/ayush-7213/DSA-Code/tree/master/2402-meeting-rooms-iii) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ayush-7213/DSA-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ayush-7213/DSA-Code/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ayush-7213/DSA-Code/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Backtracking
