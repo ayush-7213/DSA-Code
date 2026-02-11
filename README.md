@@ -46,6 +46,7 @@ Here, I'm daily minimum one DSA question solved.
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ayush-7213/DSA-Code/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ayush-7213/DSA-Code/tree/master/3634-minimum-removals-to-balance-array) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ayush-7213/DSA-Code/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/ayush-7213/DSA-Code/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ayush-7213/DSA-Code/tree/master/3721-longest-balanced-subarray-ii) |
 ## Matrix
 |  |
@@ -123,6 +124,7 @@ Here, I'm daily minimum one DSA question solved.
 | [1895-largest-magic-square](https://github.com/ayush-7213/DSA-Code/tree/master/1895-largest-magic-square) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ayush-7213/DSA-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ayush-7213/DSA-Code/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/ayush-7213/DSA-Code/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ayush-7213/DSA-Code/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
 |  |
@@ -134,6 +136,7 @@ Here, I'm daily minimum one DSA question solved.
 | [2402-meeting-rooms-iii](https://github.com/ayush-7213/DSA-Code/tree/master/2402-meeting-rooms-iii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ayush-7213/DSA-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ayush-7213/DSA-Code/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/ayush-7213/DSA-Code/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ayush-7213/DSA-Code/tree/master/3721-longest-balanced-subarray-ii) |
 ## Two Pointers
 |  |
@@ -234,6 +237,7 @@ Here, I'm daily minimum one DSA question solved.
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/ayush-7213/DSA-Code/tree/master/3454-separate-squares-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/ayush-7213/DSA-Code/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ayush-7213/DSA-Code/tree/master/3721-longest-balanced-subarray-ii) |
 ## Line Sweep
 |  |
@@ -268,5 +272,6 @@ Here, I'm daily minimum one DSA question solved.
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/ayush-7213/DSA-Code/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/ayush-7213/DSA-Code/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ayush-7213/DSA-Code/tree/master/3721-longest-balanced-subarray-ii) |
 <!---LeetCode Topics End-->
