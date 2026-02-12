@@ -136,6 +136,7 @@ Here, I'm daily minimum one DSA question solved.
 | [2402-meeting-rooms-iii](https://github.com/ayush-7213/DSA-Code/tree/master/2402-meeting-rooms-iii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ayush-7213/DSA-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ayush-7213/DSA-Code/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3713-longest-balanced-substring-i](https://github.com/ayush-7213/DSA-Code/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/ayush-7213/DSA-Code/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ayush-7213/DSA-Code/tree/master/3721-longest-balanced-subarray-ii) |
 ## Two Pointers
@@ -187,6 +188,7 @@ Here, I'm daily minimum one DSA question solved.
 | [0756-pyramid-transition-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ayush-7213/DSA-Code/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ayush-7213/DSA-Code/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/ayush-7213/DSA-Code/tree/master/3713-longest-balanced-substring-i) |
 ## Greedy
 |  |
 | ------- |
@@ -268,10 +270,15 @@ Here, I'm daily minimum one DSA question solved.
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ayush-7213/DSA-Code/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/ayush-7213/DSA-Code/tree/master/3713-longest-balanced-substring-i) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/ayush-7213/DSA-Code/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/ayush-7213/DSA-Code/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ayush-7213/DSA-Code/tree/master/3721-longest-balanced-subarray-ii) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/ayush-7213/DSA-Code/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
