@@ -63,6 +63,7 @@ Here, I'm daily minimum one DSA question solved.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/ayush-7213/DSA-Code/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/ayush-7213/DSA-Code/tree/master/0498-diagonal-traverse) |
 | [2402-meeting-rooms-iii](https://github.com/ayush-7213/DSA-Code/tree/master/2402-meeting-rooms-iii) |
 | [3379-transformed-array](https://github.com/ayush-7213/DSA-Code/tree/master/3379-transformed-array) |
@@ -109,6 +110,7 @@ Here, I'm daily minimum one DSA question solved.
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ayush-7213/DSA-Code/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/ayush-7213/DSA-Code/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/ayush-7213/DSA-Code/tree/master/0202-happy-number) |
 | [0840-magic-squares-in-grid](https://github.com/ayush-7213/DSA-Code/tree/master/0840-magic-squares-in-grid) |
@@ -187,6 +189,7 @@ Here, I'm daily minimum one DSA question solved.
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ayush-7213/DSA-Code/tree/master/0067-add-binary) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ayush-7213/DSA-Code/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ayush-7213/DSA-Code/tree/master/0944-delete-columns-to-make-sorted) |
@@ -224,6 +227,7 @@ Here, I'm daily minimum one DSA question solved.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ayush-7213/DSA-Code/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/ayush-7213/DSA-Code/tree/master/0089-gray-code) |
 | [0756-pyramid-transition-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/0756-pyramid-transition-matrix) |
 ## Stack
