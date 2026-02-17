@@ -224,6 +224,7 @@ Here, I'm daily minimum one DSA question solved.
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/ayush-7213/DSA-Code/tree/master/0089-gray-code) |
+| [0401-binary-watch](https://github.com/ayush-7213/DSA-Code/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/0756-pyramid-transition-matrix) |
 ## Bit Manipulation
 |  |
@@ -231,6 +232,7 @@ Here, I'm daily minimum one DSA question solved.
 | [0067-add-binary](https://github.com/ayush-7213/DSA-Code/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/ayush-7213/DSA-Code/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/ayush-7213/DSA-Code/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/ayush-7213/DSA-Code/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/0756-pyramid-transition-matrix) |
 ## Stack
 |  |
