@@ -7,6 +7,7 @@ Here, I'm daily minimum one DSA question solved.
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/ayush-7213/DSA-Code/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/ayush-7213/DSA-Code/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ayush-7213/DSA-Code/tree/master/0092-reverse-linked-list-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ayush-7213/DSA-Code/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
@@ -147,6 +148,7 @@ Here, I'm daily minimum one DSA question solved.
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/ayush-7213/DSA-Code/tree/master/0061-rotate-list) |
 | [0202-happy-number](https://github.com/ayush-7213/DSA-Code/tree/master/0202-happy-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ayush-7213/DSA-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Dynamic Programming
