@@ -19,6 +19,7 @@ Here, I'm daily minimum one DSA question solved.
 | ------- |
 | [0054-spiral-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/ayush-7213/DSA-Code/tree/master/0085-maximal-rectangle) |
+| [0139-word-break](https://github.com/ayush-7213/DSA-Code/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ayush-7213/DSA-Code/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/ayush-7213/DSA-Code/tree/master/0238-product-of-array-except-self) |
 | [0498-diagonal-traverse](https://github.com/ayush-7213/DSA-Code/tree/master/0498-diagonal-traverse) |
@@ -134,6 +135,7 @@ Here, I'm daily minimum one DSA question solved.
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/ayush-7213/DSA-Code/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/ayush-7213/DSA-Code/tree/master/0202-happy-number) |
 | [0756-pyramid-transition-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/ayush-7213/DSA-Code/tree/master/0840-magic-squares-in-grid) |
@@ -155,6 +157,7 @@ Here, I'm daily minimum one DSA question solved.
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ayush-7213/DSA-Code/tree/master/0085-maximal-rectangle) |
+| [0139-word-break](https://github.com/ayush-7213/DSA-Code/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ayush-7213/DSA-Code/tree/master/0198-house-robber) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ayush-7213/DSA-Code/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/ayush-7213/DSA-Code/tree/master/0746-min-cost-climbing-stairs) |
@@ -193,6 +196,7 @@ Here, I'm daily minimum one DSA question solved.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ayush-7213/DSA-Code/tree/master/0067-add-binary) |
+| [0139-word-break](https://github.com/ayush-7213/DSA-Code/tree/master/0139-word-break) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ayush-7213/DSA-Code/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ayush-7213/DSA-Code/tree/master/0944-delete-columns-to-make-sorted) |
@@ -297,4 +301,12 @@ Here, I'm daily minimum one DSA question solved.
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/ayush-7213/DSA-Code/tree/master/3713-longest-balanced-substring-i) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ayush-7213/DSA-Code/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ayush-7213/DSA-Code/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
