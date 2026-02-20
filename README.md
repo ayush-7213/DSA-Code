@@ -184,6 +184,7 @@ Here, I'm daily minimum one DSA question solved.
 ## Sorting
 |  |
 | ------- |
+| [0761-special-binary-string](https://github.com/ayush-7213/DSA-Code/tree/master/0761-special-binary-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ayush-7213/DSA-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/ayush-7213/DSA-Code/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/ayush-7213/DSA-Code/tree/master/2092-find-all-people-with-secret) |
@@ -199,6 +200,7 @@ Here, I'm daily minimum one DSA question solved.
 | [0139-word-break](https://github.com/ayush-7213/DSA-Code/tree/master/0139-word-break) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ayush-7213/DSA-Code/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/ayush-7213/DSA-Code/tree/master/0761-special-binary-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ayush-7213/DSA-Code/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ayush-7213/DSA-Code/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/ayush-7213/DSA-Code/tree/master/3713-longest-balanced-substring-i) |
@@ -294,6 +296,7 @@ Here, I'm daily minimum one DSA question solved.
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/ayush-7213/DSA-Code/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/ayush-7213/DSA-Code/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayush-7213/DSA-Code/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/ayush-7213/DSA-Code/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ayush-7213/DSA-Code/tree/master/3721-longest-balanced-subarray-ii) |
