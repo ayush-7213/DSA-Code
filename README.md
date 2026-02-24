@@ -78,6 +78,7 @@ Here, I'm daily minimum one DSA question solved.
 | [0110-balanced-binary-tree](https://github.com/ayush-7213/DSA-Code/tree/master/0110-balanced-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ayush-7213/DSA-Code/tree/master/0450-delete-node-in-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayush-7213/DSA-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ayush-7213/DSA-Code/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ayush-7213/DSA-Code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayush-7213/DSA-Code/tree/master/1382-balance-a-binary-search-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ayush-7213/DSA-Code/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -88,6 +89,7 @@ Here, I'm daily minimum one DSA question solved.
 | [0101-symmetric-tree](https://github.com/ayush-7213/DSA-Code/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/ayush-7213/DSA-Code/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayush-7213/DSA-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ayush-7213/DSA-Code/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ayush-7213/DSA-Code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayush-7213/DSA-Code/tree/master/1382-balance-a-binary-search-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ayush-7213/DSA-Code/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -108,6 +110,7 @@ Here, I'm daily minimum one DSA question solved.
 | [0110-balanced-binary-tree](https://github.com/ayush-7213/DSA-Code/tree/master/0110-balanced-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ayush-7213/DSA-Code/tree/master/0450-delete-node-in-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayush-7213/DSA-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ayush-7213/DSA-Code/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ayush-7213/DSA-Code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayush-7213/DSA-Code/tree/master/1382-balance-a-binary-search-tree) |
 ## Math
