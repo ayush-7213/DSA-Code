@@ -17,6 +17,7 @@ Here, I'm daily minimum one DSA question solved.
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ayush-7213/DSA-Code/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/ayush-7213/DSA-Code/tree/master/0085-maximal-rectangle) |
 | [0139-word-break](https://github.com/ayush-7213/DSA-Code/tree/master/0139-word-break) |
@@ -154,12 +155,14 @@ Here, I'm daily minimum one DSA question solved.
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ayush-7213/DSA-Code/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ayush-7213/DSA-Code/tree/master/0061-rotate-list) |
 | [0202-happy-number](https://github.com/ayush-7213/DSA-Code/tree/master/0202-happy-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ayush-7213/DSA-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ayush-7213/DSA-Code/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/ayush-7213/DSA-Code/tree/master/0085-maximal-rectangle) |
 | [0139-word-break](https://github.com/ayush-7213/DSA-Code/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ayush-7213/DSA-Code/tree/master/0198-house-robber) |
@@ -251,10 +254,12 @@ Here, I'm daily minimum one DSA question solved.
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ayush-7213/DSA-Code/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/ayush-7213/DSA-Code/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ayush-7213/DSA-Code/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/ayush-7213/DSA-Code/tree/master/0085-maximal-rectangle) |
 ## Geometry
 |  |
