@@ -69,6 +69,7 @@ Here, I'm daily minimum one DSA question solved.
 | [0054-spiral-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/ayush-7213/DSA-Code/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/ayush-7213/DSA-Code/tree/master/0498-diagonal-traverse) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ayush-7213/DSA-Code/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2402-meeting-rooms-iii](https://github.com/ayush-7213/DSA-Code/tree/master/2402-meeting-rooms-iii) |
 | [3379-transformed-array](https://github.com/ayush-7213/DSA-Code/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ayush-7213/DSA-Code/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -210,6 +211,7 @@ Here, I'm daily minimum one DSA question solved.
 | [0761-special-binary-string](https://github.com/ayush-7213/DSA-Code/tree/master/0761-special-binary-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ayush-7213/DSA-Code/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ayush-7213/DSA-Code/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ayush-7213/DSA-Code/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3713-longest-balanced-substring-i](https://github.com/ayush-7213/DSA-Code/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/ayush-7213/DSA-Code/tree/master/3714-longest-balanced-substring-ii) |
 ## Greedy
@@ -251,6 +253,7 @@ Here, I'm daily minimum one DSA question solved.
 | [0693-binary-number-with-alternating-bits](https://github.com/ayush-7213/DSA-Code/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ayush-7213/DSA-Code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ayush-7213/DSA-Code/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Stack
 |  |
 | ------- |
