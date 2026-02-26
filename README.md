@@ -204,6 +204,7 @@ Here, I'm daily minimum one DSA question solved.
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/ayush-7213/DSA-Code/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/ayush-7213/DSA-Code/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/ayush-7213/DSA-Code/tree/master/0139-word-break) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ayush-7213/DSA-Code/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
