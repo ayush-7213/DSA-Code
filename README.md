@@ -105,6 +105,7 @@ Here, I'm daily minimum one DSA question solved.
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayush-7213/DSA-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ayush-7213/DSA-Code/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/ayush-7213/DSA-Code/tree/master/2092-find-all-people-with-secret) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/ayush-7213/DSA-Code/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Tree
 |  |
 | ------- |
@@ -128,6 +129,7 @@ Here, I'm daily minimum one DSA question solved.
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ayush-7213/DSA-Code/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ayush-7213/DSA-Code/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ayush-7213/DSA-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/ayush-7213/DSA-Code/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -213,6 +215,7 @@ Here, I'm daily minimum one DSA question solved.
 | [0944-delete-columns-to-make-sorted](https://github.com/ayush-7213/DSA-Code/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ayush-7213/DSA-Code/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ayush-7213/DSA-Code/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/ayush-7213/DSA-Code/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/ayush-7213/DSA-Code/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/ayush-7213/DSA-Code/tree/master/3714-longest-balanced-substring-ii) |
 ## Greedy
@@ -288,6 +291,7 @@ Here, I'm daily minimum one DSA question solved.
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ayush-7213/DSA-Code/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/ayush-7213/DSA-Code/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -326,4 +330,8 @@ Here, I'm daily minimum one DSA question solved.
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ayush-7213/DSA-Code/tree/master/0139-word-break) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/ayush-7213/DSA-Code/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
