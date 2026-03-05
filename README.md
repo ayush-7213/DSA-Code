@@ -18,6 +18,7 @@ Here, I'm daily minimum one DSA question solved.
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/ayush-7213/DSA-Code/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/ayush-7213/DSA-Code/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/ayush-7213/DSA-Code/tree/master/0085-maximal-rectangle) |
@@ -252,6 +253,7 @@ Here, I'm daily minimum one DSA question solved.
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/ayush-7213/DSA-Code/tree/master/0039-combination-sum) |
 | [0089-gray-code](https://github.com/ayush-7213/DSA-Code/tree/master/0089-gray-code) |
 | [0401-binary-watch](https://github.com/ayush-7213/DSA-Code/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/0756-pyramid-transition-matrix) |
