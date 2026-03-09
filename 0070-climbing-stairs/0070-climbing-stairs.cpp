@@ -1,12 +1,17 @@
 class Solution {
 public:
-    int climbStairs(int n) {
-        int curr, prev1=1, prev2=0;
-        for(int i=n-1; i>=0; i--){
-            curr = prev1+prev2;
-            prev2=prev1;
-            prev1=curr;
+    int climbStairs(int n, unordered_map<int, int>& memo) {
+        if (n == 0 || n == 1) {
+            return 1;
         }
-        return curr;
+        if (memo.find(n) == memo.end()) {
+            memo[n] = climbStairs(n-1, memo) + climbStairs(n-2, memo);
+        }
+        return memo[n];
+    }
+
+    int climbStairs(int n) {
+        unordered_map<int, int> memo;
+        return climbStairs(n, memo);
     }
 };
