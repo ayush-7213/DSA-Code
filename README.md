@@ -162,6 +162,7 @@ Here, I'm daily minimum one DSA question solved.
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayush-7213/DSA-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2363-merge-similar-items](https://github.com/ayush-7213/DSA-Code/tree/master/2363-merge-similar-items) |
 | [2402-meeting-rooms-iii](https://github.com/ayush-7213/DSA-Code/tree/master/2402-meeting-rooms-iii) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayush-7213/DSA-Code/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ayush-7213/DSA-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ayush-7213/DSA-Code/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3713-longest-balanced-substring-i](https://github.com/ayush-7213/DSA-Code/tree/master/3713-longest-balanced-substring-i) |
@@ -213,6 +214,7 @@ Here, I'm daily minimum one DSA question solved.
 | [2092-find-all-people-with-secret](https://github.com/ayush-7213/DSA-Code/tree/master/2092-find-all-people-with-secret) |
 | [2363-merge-similar-items](https://github.com/ayush-7213/DSA-Code/tree/master/2363-merge-similar-items) |
 | [2402-meeting-rooms-iii](https://github.com/ayush-7213/DSA-Code/tree/master/2402-meeting-rooms-iii) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayush-7213/DSA-Code/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ayush-7213/DSA-Code/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ayush-7213/DSA-Code/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ayush-7213/DSA-Code/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -231,6 +233,7 @@ Here, I'm daily minimum one DSA question solved.
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ayush-7213/DSA-Code/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ayush-7213/DSA-Code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ayush-7213/DSA-Code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayush-7213/DSA-Code/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ayush-7213/DSA-Code/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/ayush-7213/DSA-Code/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/ayush-7213/DSA-Code/tree/master/3714-longest-balanced-substring-ii) |
