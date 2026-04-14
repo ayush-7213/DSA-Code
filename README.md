@@ -42,6 +42,7 @@ Here, I'm daily minimum one DSA question solved.
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ayush-7213/DSA-Code/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2363-merge-similar-items](https://github.com/ayush-7213/DSA-Code/tree/master/2363-merge-similar-items) |
 | [2402-meeting-rooms-iii](https://github.com/ayush-7213/DSA-Code/tree/master/2402-meeting-rooms-iii) |
+| [2463-minimum-total-distance-traveled](https://github.com/ayush-7213/DSA-Code/tree/master/2463-minimum-total-distance-traveled) |
 | [2906-construct-product-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ayush-7213/DSA-Code/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ayush-7213/DSA-Code/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -189,6 +190,7 @@ Here, I'm daily minimum one DSA question solved.
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ayush-7213/DSA-Code/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/ayush-7213/DSA-Code/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ayush-7213/DSA-Code/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2463-minimum-total-distance-traveled](https://github.com/ayush-7213/DSA-Code/tree/master/2463-minimum-total-distance-traveled) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ayush-7213/DSA-Code/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Sliding Window
 |  |
@@ -214,6 +216,7 @@ Here, I'm daily minimum one DSA question solved.
 | [2092-find-all-people-with-secret](https://github.com/ayush-7213/DSA-Code/tree/master/2092-find-all-people-with-secret) |
 | [2363-merge-similar-items](https://github.com/ayush-7213/DSA-Code/tree/master/2363-merge-similar-items) |
 | [2402-meeting-rooms-iii](https://github.com/ayush-7213/DSA-Code/tree/master/2402-meeting-rooms-iii) |
+| [2463-minimum-total-distance-traveled](https://github.com/ayush-7213/DSA-Code/tree/master/2463-minimum-total-distance-traveled) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayush-7213/DSA-Code/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ayush-7213/DSA-Code/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ayush-7213/DSA-Code/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
