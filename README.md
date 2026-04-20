@@ -39,6 +39,7 @@ Here, I'm daily minimum one DSA question solved.
 | [1970-last-day-where-you-can-still-cross](https://github.com/ayush-7213/DSA-Code/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/ayush-7213/DSA-Code/tree/master/1975-maximum-matrix-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/ayush-7213/DSA-Code/tree/master/2054-two-best-non-overlapping-events) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/ayush-7213/DSA-Code/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ayush-7213/DSA-Code/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2363-merge-similar-items](https://github.com/ayush-7213/DSA-Code/tree/master/2363-merge-similar-items) |
 | [2402-meeting-rooms-iii](https://github.com/ayush-7213/DSA-Code/tree/master/2402-meeting-rooms-iii) |
@@ -251,6 +252,7 @@ Here, I'm daily minimum one DSA question solved.
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ayush-7213/DSA-Code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ayush-7213/DSA-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/ayush-7213/DSA-Code/tree/master/1975-maximum-matrix-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/ayush-7213/DSA-Code/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ayush-7213/DSA-Code/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Binary Search
 |  |
