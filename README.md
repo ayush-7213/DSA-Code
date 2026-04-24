@@ -242,6 +242,7 @@ Here, I'm daily minimum one DSA question solved.
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ayush-7213/DSA-Code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ayush-7213/DSA-Code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ayush-7213/DSA-Code/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2833-furthest-point-from-origin](https://github.com/ayush-7213/DSA-Code/tree/master/2833-furthest-point-from-origin) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayush-7213/DSA-Code/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ayush-7213/DSA-Code/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/ayush-7213/DSA-Code/tree/master/3713-longest-balanced-substring-i) |
@@ -355,6 +356,7 @@ Here, I'm daily minimum one DSA question solved.
 ## Counting
 |  |
 | ------- |
+| [2833-furthest-point-from-origin](https://github.com/ayush-7213/DSA-Code/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/ayush-7213/DSA-Code/tree/master/3713-longest-balanced-substring-i) |
 ## Trie
 |  |
