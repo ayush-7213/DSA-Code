@@ -25,6 +25,7 @@ Here, I'm daily minimum one DSA question solved.
 | [0139-word-break](https://github.com/ayush-7213/DSA-Code/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ayush-7213/DSA-Code/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/ayush-7213/DSA-Code/tree/master/0238-product-of-array-except-self) |
+| [0396-rotate-function](https://github.com/ayush-7213/DSA-Code/tree/master/0396-rotate-function) |
 | [0498-diagonal-traverse](https://github.com/ayush-7213/DSA-Code/tree/master/0498-diagonal-traverse) |
 | [0746-min-cost-climbing-stairs](https://github.com/ayush-7213/DSA-Code/tree/master/0746-min-cost-climbing-stairs) |
 | [0840-magic-squares-in-grid](https://github.com/ayush-7213/DSA-Code/tree/master/0840-magic-squares-in-grid) |
@@ -137,6 +138,7 @@ Here, I'm daily minimum one DSA question solved.
 | [0067-add-binary](https://github.com/ayush-7213/DSA-Code/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/ayush-7213/DSA-Code/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/ayush-7213/DSA-Code/tree/master/0202-happy-number) |
+| [0396-rotate-function](https://github.com/ayush-7213/DSA-Code/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ayush-7213/DSA-Code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/ayush-7213/DSA-Code/tree/master/0840-magic-squares-in-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ayush-7213/DSA-Code/tree/master/1266-minimum-time-visiting-all-points) |
@@ -189,6 +191,7 @@ Here, I'm daily minimum one DSA question solved.
 | [0085-maximal-rectangle](https://github.com/ayush-7213/DSA-Code/tree/master/0085-maximal-rectangle) |
 | [0139-word-break](https://github.com/ayush-7213/DSA-Code/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ayush-7213/DSA-Code/tree/master/0198-house-robber) |
+| [0396-rotate-function](https://github.com/ayush-7213/DSA-Code/tree/master/0396-rotate-function) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ayush-7213/DSA-Code/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/ayush-7213/DSA-Code/tree/master/0746-min-cost-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/ayush-7213/DSA-Code/tree/master/0799-champagne-tower) |
