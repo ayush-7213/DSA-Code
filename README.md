@@ -140,6 +140,7 @@ Here, I'm daily minimum one DSA question solved.
 | [0202-happy-number](https://github.com/ayush-7213/DSA-Code/tree/master/0202-happy-number) |
 | [0396-rotate-function](https://github.com/ayush-7213/DSA-Code/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ayush-7213/DSA-Code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/ayush-7213/DSA-Code/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/ayush-7213/DSA-Code/tree/master/0840-magic-squares-in-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ayush-7213/DSA-Code/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/ayush-7213/DSA-Code/tree/master/1390-four-divisors) |
@@ -194,6 +195,7 @@ Here, I'm daily minimum one DSA question solved.
 | [0396-rotate-function](https://github.com/ayush-7213/DSA-Code/tree/master/0396-rotate-function) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ayush-7213/DSA-Code/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/ayush-7213/DSA-Code/tree/master/0746-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/ayush-7213/DSA-Code/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/ayush-7213/DSA-Code/tree/master/0799-champagne-tower) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ayush-7213/DSA-Code/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/ayush-7213/DSA-Code/tree/master/2054-two-best-non-overlapping-events) |
