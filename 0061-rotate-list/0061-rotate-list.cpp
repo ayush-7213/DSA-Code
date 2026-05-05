@@ -8,41 +8,39 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
+
 class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
-        if(head==NULL || head->next==NULL)
-            return head;
+        if (!head || !head->next || k == 0) return head;
 
-        ListNode* temp=head, dummy;
-        int n=0;
-
-        while(temp){
+        //find length and last node
+        int n = 1;
+        ListNode* tail = head;
+        while (tail->next) {
+            tail = tail->next;
             n++;
-            temp=temp->next;
         }
 
-        k=k%n;
-        if(k==0)
-            return head;
+        // reduce k
+        k = k % n;
+        if (k == 0) return head;
 
-        n=n-k-1;
-        temp=head;
+        // make circular
+        tail->next = head;
 
-        while(n--){
-            temp=temp->next;
+        // find new tail (n - k - 1 steps)
+        int steps = n - k;
+        ListNode* newTail = head;
+        while (--steps) {
+            newTail = newTail->next;
         }
 
-        dummy.next=temp->next;
-        temp->next=NULL;
+        // break circle
+        ListNode* newHead = newTail->next;
+        newTail->next = nullptr;
 
-        temp=dummy.next;
-        while(temp->next){
-            temp=temp->next;
-        }
-
-        temp->next=head;
-
-        return dummy.next;
+        return newHead;
     }
 };
