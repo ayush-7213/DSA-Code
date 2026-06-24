@@ -22,6 +22,7 @@ Here, I'm daily minimum one DSA question solved.
 | [0042-trapping-rain-water](https://github.com/ayush-7213/DSA-Code/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/ayush-7213/DSA-Code/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush-7213/DSA-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/ayush-7213/DSA-Code/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ayush-7213/DSA-Code/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/ayush-7213/DSA-Code/tree/master/0238-product-of-array-except-self) |
@@ -191,6 +192,7 @@ Here, I'm daily minimum one DSA question solved.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayush-7213/DSA-Code/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/ayush-7213/DSA-Code/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush-7213/DSA-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/ayush-7213/DSA-Code/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ayush-7213/DSA-Code/tree/master/0198-house-robber) |
 | [0396-rotate-function](https://github.com/ayush-7213/DSA-Code/tree/master/0396-rotate-function) |
