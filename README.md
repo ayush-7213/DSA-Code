@@ -24,6 +24,7 @@ Here, I'm daily minimum one DSA question solved.
 | [0085-maximal-rectangle](https://github.com/ayush-7213/DSA-Code/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush-7213/DSA-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/ayush-7213/DSA-Code/tree/master/0139-word-break) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayush-7213/DSA-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/ayush-7213/DSA-Code/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/ayush-7213/DSA-Code/tree/master/0238-product-of-array-except-self) |
 | [0396-rotate-function](https://github.com/ayush-7213/DSA-Code/tree/master/0396-rotate-function) |
@@ -271,6 +272,7 @@ Here, I'm daily minimum one DSA question solved.
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayush-7213/DSA-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ayush-7213/DSA-Code/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/ayush-7213/DSA-Code/tree/master/2054-two-best-non-overlapping-events) |
