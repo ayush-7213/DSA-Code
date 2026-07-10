@@ -27,6 +27,7 @@ Here, I'm daily minimum one DSA question solved.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayush-7213/DSA-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/ayush-7213/DSA-Code/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/ayush-7213/DSA-Code/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/ayush-7213/DSA-Code/tree/master/0283-move-zeroes) |
 | [0396-rotate-function](https://github.com/ayush-7213/DSA-Code/tree/master/0396-rotate-function) |
 | [0498-diagonal-traverse](https://github.com/ayush-7213/DSA-Code/tree/master/0498-diagonal-traverse) |
 | [0746-min-cost-climbing-stairs](https://github.com/ayush-7213/DSA-Code/tree/master/0746-min-cost-climbing-stairs) |
@@ -187,6 +188,7 @@ Here, I'm daily minimum one DSA question solved.
 | [0042-trapping-rain-water](https://github.com/ayush-7213/DSA-Code/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ayush-7213/DSA-Code/tree/master/0061-rotate-list) |
 | [0202-happy-number](https://github.com/ayush-7213/DSA-Code/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/ayush-7213/DSA-Code/tree/master/0283-move-zeroes) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ayush-7213/DSA-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Dynamic Programming
 |  |
