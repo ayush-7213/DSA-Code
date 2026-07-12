@@ -35,6 +35,7 @@ Here, I'm daily minimum one DSA question solved.
 | [0944-delete-columns-to-make-sorted](https://github.com/ayush-7213/DSA-Code/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ayush-7213/DSA-Code/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ayush-7213/DSA-Code/tree/master/1266-minimum-time-visiting-all-points) |
+| [1331-rank-transform-of-an-array](https://github.com/ayush-7213/DSA-Code/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/ayush-7213/DSA-Code/tree/master/1390-four-divisors) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ayush-7213/DSA-Code/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -174,6 +175,7 @@ Here, I'm daily minimum one DSA question solved.
 | [0756-pyramid-transition-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/ayush-7213/DSA-Code/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayush-7213/DSA-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1331-rank-transform-of-an-array](https://github.com/ayush-7213/DSA-Code/tree/master/1331-rank-transform-of-an-array) |
 | [2363-merge-similar-items](https://github.com/ayush-7213/DSA-Code/tree/master/2363-merge-similar-items) |
 | [2402-meeting-rooms-iii](https://github.com/ayush-7213/DSA-Code/tree/master/2402-meeting-rooms-iii) |
 | [2615-sum-of-distances](https://github.com/ayush-7213/DSA-Code/tree/master/2615-sum-of-distances) |
@@ -229,6 +231,7 @@ Here, I'm daily minimum one DSA question solved.
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/ayush-7213/DSA-Code/tree/master/0761-special-binary-string) |
+| [1331-rank-transform-of-an-array](https://github.com/ayush-7213/DSA-Code/tree/master/1331-rank-transform-of-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ayush-7213/DSA-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/ayush-7213/DSA-Code/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/ayush-7213/DSA-Code/tree/master/2092-find-all-people-with-secret) |
