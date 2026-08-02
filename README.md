@@ -170,6 +170,7 @@ Here, I'm daily minimum one DSA question solved.
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ayush-7213/DSA-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/ayush-7213/DSA-Code/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/ayush-7213/DSA-Code/tree/master/0202-happy-number) |
 | [0756-pyramid-transition-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/0756-pyramid-transition-matrix) |
@@ -215,6 +216,7 @@ Here, I'm daily minimum one DSA question solved.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ayush-7213/DSA-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ayush-7213/DSA-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ayush-7213/DSA-Code/tree/master/3634-minimum-removals-to-balance-array) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ayush-7213/DSA-Code/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -247,6 +249,7 @@ Here, I'm daily minimum one DSA question solved.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ayush-7213/DSA-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/ayush-7213/DSA-Code/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/ayush-7213/DSA-Code/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/ayush-7213/DSA-Code/tree/master/0139-word-break) |
