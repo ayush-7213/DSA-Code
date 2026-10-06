@@ -199,6 +199,7 @@ Here, I'm daily minimum one DSA question solved.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ayush-7213/DSA-Code/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ayush-7213/DSA-Code/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/ayush-7213/DSA-Code/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush-7213/DSA-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -251,6 +252,7 @@ Here, I'm daily minimum one DSA question solved.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayush-7213/DSA-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/ayush-7213/DSA-Code/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/ayush-7213/DSA-Code/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/ayush-7213/DSA-Code/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/ayush-7213/DSA-Code/tree/master/0139-word-break) |
@@ -301,6 +303,7 @@ Here, I'm daily minimum one DSA question solved.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ayush-7213/DSA-Code/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ayush-7213/DSA-Code/tree/master/0039-combination-sum) |
 | [0089-gray-code](https://github.com/ayush-7213/DSA-Code/tree/master/0089-gray-code) |
 | [0401-binary-watch](https://github.com/ayush-7213/DSA-Code/tree/master/0401-binary-watch) |
@@ -402,5 +405,6 @@ Here, I'm daily minimum one DSA question solved.
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ayush-7213/DSA-Code/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayush-7213/DSA-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
