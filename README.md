@@ -257,6 +257,7 @@ Here, I'm daily minimum one DSA question solved.
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ayush-7213/DSA-Code/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/ayush-7213/DSA-Code/tree/master/0761-special-binary-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayush-7213/DSA-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ayush-7213/DSA-Code/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ayush-7213/DSA-Code/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ayush-7213/DSA-Code/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -271,6 +272,7 @@ Here, I'm daily minimum one DSA question solved.
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayush-7213/DSA-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ayush-7213/DSA-Code/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayush-7213/DSA-Code/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ayush-7213/DSA-Code/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -320,6 +322,7 @@ Here, I'm daily minimum one DSA question solved.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayush-7213/DSA-Code/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/ayush-7213/DSA-Code/tree/master/0085-maximal-rectangle) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayush-7213/DSA-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -396,4 +399,8 @@ Here, I'm daily minimum one DSA question solved.
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/ayush-7213/DSA-Code/tree/master/2685-count-the-number-of-complete-components) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ayush-7213/DSA-Code/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayush-7213/DSA-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
