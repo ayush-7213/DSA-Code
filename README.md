@@ -53,6 +53,7 @@ Here, I'm daily minimum one DSA question solved.
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ayush-7213/DSA-Code/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2615-sum-of-distances](https://github.com/ayush-7213/DSA-Code/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/2906-construct-product-matrix) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ayush-7213/DSA-Code/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ayush-7213/DSA-Code/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ayush-7213/DSA-Code/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ayush-7213/DSA-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -182,6 +183,7 @@ Here, I'm daily minimum one DSA question solved.
 | [2402-meeting-rooms-iii](https://github.com/ayush-7213/DSA-Code/tree/master/2402-meeting-rooms-iii) |
 | [2615-sum-of-distances](https://github.com/ayush-7213/DSA-Code/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayush-7213/DSA-Code/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ayush-7213/DSA-Code/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ayush-7213/DSA-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ayush-7213/DSA-Code/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3713-longest-balanced-substring-i](https://github.com/ayush-7213/DSA-Code/tree/master/3713-longest-balanced-substring-i) |
@@ -339,6 +341,7 @@ Here, I'm daily minimum one DSA question solved.
 ## Segment Tree
 |  |
 | ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ayush-7213/DSA-Code/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3454-separate-squares-ii](https://github.com/ayush-7213/DSA-Code/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ayush-7213/DSA-Code/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ayush-7213/DSA-Code/tree/master/3721-longest-balanced-subarray-ii) |
@@ -407,4 +410,8 @@ Here, I'm daily minimum one DSA question solved.
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayush-7213/DSA-Code/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayush-7213/DSA-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ayush-7213/DSA-Code/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
