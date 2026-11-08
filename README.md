@@ -41,6 +41,7 @@ Here, I'm daily minimum one DSA question solved.
 | [1390-four-divisors](https://github.com/ayush-7213/DSA-Code/tree/master/1390-four-divisors) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ayush-7213/DSA-Code/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ayush-7213/DSA-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1882-process-tasks-using-servers](https://github.com/ayush-7213/DSA-Code/tree/master/1882-process-tasks-using-servers) |
 | [1895-largest-magic-square](https://github.com/ayush-7213/DSA-Code/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ayush-7213/DSA-Code/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/ayush-7213/DSA-Code/tree/master/1975-maximum-matrix-sum) |
@@ -301,6 +302,7 @@ Here, I'm daily minimum one DSA question solved.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1882-process-tasks-using-servers](https://github.com/ayush-7213/DSA-Code/tree/master/1882-process-tasks-using-servers) |
 | [2054-two-best-non-overlapping-events](https://github.com/ayush-7213/DSA-Code/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/ayush-7213/DSA-Code/tree/master/2402-meeting-rooms-iii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ayush-7213/DSA-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
