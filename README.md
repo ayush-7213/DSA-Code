@@ -54,6 +54,7 @@ Here, I'm daily minimum one DSA question solved.
 | [2463-minimum-total-distance-traveled](https://github.com/ayush-7213/DSA-Code/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ayush-7213/DSA-Code/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2615-sum-of-distances](https://github.com/ayush-7213/DSA-Code/tree/master/2615-sum-of-distances) |
+| [2747-count-zero-request-servers](https://github.com/ayush-7213/DSA-Code/tree/master/2747-count-zero-request-servers) |
 | [2906-construct-product-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/2906-construct-product-matrix) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ayush-7213/DSA-Code/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ayush-7213/DSA-Code/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -187,6 +188,7 @@ Here, I'm daily minimum one DSA question solved.
 | [2363-merge-similar-items](https://github.com/ayush-7213/DSA-Code/tree/master/2363-merge-similar-items) |
 | [2402-meeting-rooms-iii](https://github.com/ayush-7213/DSA-Code/tree/master/2402-meeting-rooms-iii) |
 | [2615-sum-of-distances](https://github.com/ayush-7213/DSA-Code/tree/master/2615-sum-of-distances) |
+| [2747-count-zero-request-servers](https://github.com/ayush-7213/DSA-Code/tree/master/2747-count-zero-request-servers) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayush-7213/DSA-Code/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ayush-7213/DSA-Code/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ayush-7213/DSA-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -226,6 +228,7 @@ Here, I'm daily minimum one DSA question solved.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayush-7213/DSA-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2747-count-zero-request-servers](https://github.com/ayush-7213/DSA-Code/tree/master/2747-count-zero-request-servers) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ayush-7213/DSA-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ayush-7213/DSA-Code/tree/master/3634-minimum-removals-to-balance-array) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ayush-7213/DSA-Code/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -250,6 +253,7 @@ Here, I'm daily minimum one DSA question solved.
 | [2363-merge-similar-items](https://github.com/ayush-7213/DSA-Code/tree/master/2363-merge-similar-items) |
 | [2402-meeting-rooms-iii](https://github.com/ayush-7213/DSA-Code/tree/master/2402-meeting-rooms-iii) |
 | [2463-minimum-total-distance-traveled](https://github.com/ayush-7213/DSA-Code/tree/master/2463-minimum-total-distance-traveled) |
+| [2747-count-zero-request-servers](https://github.com/ayush-7213/DSA-Code/tree/master/2747-count-zero-request-servers) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayush-7213/DSA-Code/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ayush-7213/DSA-Code/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ayush-7213/DSA-Code/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
