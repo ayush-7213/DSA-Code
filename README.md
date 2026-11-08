@@ -35,6 +35,7 @@ Here, I'm daily minimum one DSA question solved.
 | [0944-delete-columns-to-make-sorted](https://github.com/ayush-7213/DSA-Code/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ayush-7213/DSA-Code/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ayush-7213/DSA-Code/tree/master/1266-minimum-time-visiting-all-points) |
+| [1267-count-servers-that-communicate](https://github.com/ayush-7213/DSA-Code/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/ayush-7213/DSA-Code/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/ayush-7213/DSA-Code/tree/master/1390-four-divisors) |
@@ -76,6 +77,7 @@ Here, I'm daily minimum one DSA question solved.
 | [0085-maximal-rectangle](https://github.com/ayush-7213/DSA-Code/tree/master/0085-maximal-rectangle) |
 | [0498-diagonal-traverse](https://github.com/ayush-7213/DSA-Code/tree/master/0498-diagonal-traverse) |
 | [0840-magic-squares-in-grid](https://github.com/ayush-7213/DSA-Code/tree/master/0840-magic-squares-in-grid) |
+| [1267-count-servers-that-communicate](https://github.com/ayush-7213/DSA-Code/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayush-7213/DSA-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ayush-7213/DSA-Code/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1895-largest-magic-square](https://github.com/ayush-7213/DSA-Code/tree/master/1895-largest-magic-square) |
@@ -114,6 +116,7 @@ Here, I'm daily minimum one DSA question solved.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayush-7213/DSA-Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayush-7213/DSA-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ayush-7213/DSA-Code/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1267-count-servers-that-communicate](https://github.com/ayush-7213/DSA-Code/tree/master/1267-count-servers-that-communicate) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ayush-7213/DSA-Code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayush-7213/DSA-Code/tree/master/1382-balance-a-binary-search-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ayush-7213/DSA-Code/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -126,6 +129,7 @@ Here, I'm daily minimum one DSA question solved.
 | ------- |
 | [0101-symmetric-tree](https://github.com/ayush-7213/DSA-Code/tree/master/0101-symmetric-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayush-7213/DSA-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1267-count-servers-that-communicate](https://github.com/ayush-7213/DSA-Code/tree/master/1267-count-servers-that-communicate) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ayush-7213/DSA-Code/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/ayush-7213/DSA-Code/tree/master/2092-find-all-people-with-secret) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayush-7213/DSA-Code/tree/master/2685-count-the-number-of-complete-components) |
@@ -390,6 +394,7 @@ Here, I'm daily minimum one DSA question solved.
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/ayush-7213/DSA-Code/tree/master/1267-count-servers-that-communicate) |
 | [2833-furthest-point-from-origin](https://github.com/ayush-7213/DSA-Code/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/ayush-7213/DSA-Code/tree/master/3713-longest-balanced-substring-i) |
 ## Trie
@@ -403,6 +408,7 @@ Here, I'm daily minimum one DSA question solved.
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/ayush-7213/DSA-Code/tree/master/1267-count-servers-that-communicate) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayush-7213/DSA-Code/tree/master/2685-count-the-number-of-complete-components) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ayush-7213/DSA-Code/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Bracket Sequences
